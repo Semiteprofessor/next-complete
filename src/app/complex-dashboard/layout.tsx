@@ -1,3 +1,5 @@
+import Login from "./@login/page";
+
 const DashboardLayout = ({
   children,
   user,
