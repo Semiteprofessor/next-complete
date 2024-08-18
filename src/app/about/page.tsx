@@ -1,7 +1,7 @@
 import { title } from "process";
 
 export const metadata = {
-  title: "About Codevolution",
+  title: "About GeoCodec Technologies",
 };
 
 const About = () => {
